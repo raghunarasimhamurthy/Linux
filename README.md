@@ -14,3 +14,10 @@ _Notes helpful while preforming above steps_
 * server manager in windows - yum in lunux
 * chmod -- change permission - 777
 
+## why is the difference -- and - in linux command
+* A single hyphen can be followed by multiple single-character flags. A double hyphen prefixes a single, multicharacter option.
+* tar -czf
+* In this example, -czf specifies three single-character flags: c, z, and f.
+* Now consider another example:
+* tar --exclude
+
