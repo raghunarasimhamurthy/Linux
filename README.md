@@ -21,5 +21,8 @@ _Notes helpful while preforming above steps_
 * Now consider another example:
 * tar --exclude
 
-# apt command
+## apt command
 * Install, Manage, Update, Remove Packages on linux systems 
+
+## Ubuntu - Terminal scroll issue : ubuntu clear command does not initialize scrollbar
+* What you want is to type CTRL+L instead of clear. This will send a "Form Feed" to the terminal. Basically it will move everything up the height of the terminal window clearing the screen without affecting your scrollback.
