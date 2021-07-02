@@ -21,3 +21,5 @@ _Notes helpful while preforming above steps_
 * Now consider another example:
 * tar --exclude
 
+# apt command
+* Install, Manage, Update, Remove Packages on linux systems 
