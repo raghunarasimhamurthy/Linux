@@ -1,4 +1,8 @@
 # Linux
+
+##  Shells 
+* Shells are command interpreters. They are applications that provide users with the ability to give commands to their operating system interactively, or to execute batches of commands quickly. In no way are they required for the execution of programs; they are merely a layer between system function calls and the user.
+[click here for more info](http://mywiki.wooledge.org/BashGuide)
 ## How to deploy web application on linux
 * switch to root user
 * install --yum install httpd
