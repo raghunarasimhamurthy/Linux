@@ -11,10 +11,12 @@ Questions : how to check if mysql-server , mysql-client is installed on ubuntu?
 
 
  <br/>
- 
+ ##### connecting to mysql via connection string
 * Sample connection string
 *mysql -u admin -padmin123 -h database-1.cdps5t3rrsml.ap-south-1.rds.amazonaws.com -P 3306 -D RaghuDB*
 
+ ###### Error -ERROR 2003 (HY000): Can't connect to MySQL server on 'payrolldb.cdps5t3rrsml.ap-south-1.rds.amazonaws.com:3306' (11)
+ * resolution : on database security vpc , modify the inbound rule to get public access
 * Queries should end with semicolon on mysql terminal
 * Should use 'exit' command to come out of mysql terminal
 * In mysql connection string, password should not have space after -p (command argument)
