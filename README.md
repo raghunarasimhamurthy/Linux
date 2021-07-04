@@ -3,6 +3,10 @@
 ##  Shells 
 * Shells are command interpreters. They are applications that provide users with the ability to give commands to their operating system interactively, or to execute batches of commands quickly. In no way are they required for the execution of programs; they are merely a layer between system function calls and the user.
 [click here for more info](http://mywiki.wooledge.org/BashGuide)
+
+## What are the few Editors available in Linux environment
+*  vi editor, vim editor, Emacs editor, kate editor, Gedit editor, GNU nano editor
+
 ## How to deploy web application on linux
 * switch to root user
 * install --yum install httpd
