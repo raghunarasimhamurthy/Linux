@@ -37,3 +37,8 @@ _Notes helpful while preforming above steps_
 
 ## Ubuntu - Terminal scroll issue : ubuntu clear command does not initialize scrollbar
 * What you want is to type CTRL+L instead of clear. This will send a "Form Feed" to the terminal. Basically it will move everything up the height of the terminal window clearing the screen without affecting your scrollback.
+
+## Deamon
+* A daemon (also known as background processes) is **a Linux or UNIX program that runs in the background**. Almost all daemons have names that end with the letter "d". For example, httpd the daemon that handles the Apache server, or, sshd which handles SSH remote access connections. Linux often start daemons at boot time.
+
+
