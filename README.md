@@ -1,5 +1,8 @@
 # Linux
 
+## Linux Command Details with switches
+[explainshell.com](https://explainshell.com/explain/1/ls)
+
 ## check Linux OS details via terminal
 * cat /etc/os-release
 
