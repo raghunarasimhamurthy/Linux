@@ -3,6 +3,9 @@
 ## Linux Command Details with switches
 [explainshell.com](https://explainshell.com/explain/1/ls)
 
+## Environment Variables
+[TechMint](https://www.tecmint.com/set-unset-environment-variables-in-linux/)
+
 ## check Linux OS details via terminal
 * cat /etc/os-release
 
