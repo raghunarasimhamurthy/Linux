@@ -37,7 +37,7 @@ _Notes helpful while preforming above steps_
 * In this example, -czf specifies three single-character flags: c, z, and f.
 * Now consider another example:
 * tar --exclude
-![alt text](https://github.com/raghunarasimhamurthy/Linux/blob/0631be6d1f1708a7386544961b7768759d81f083/abc.png?raw=true)
+![alt text](https://github.com/raghunarasimhamurthy/Linux/blob/0631be6d1f1708a7386544961b7768759d81f083/abc.png)
 
 
 ## apt command
